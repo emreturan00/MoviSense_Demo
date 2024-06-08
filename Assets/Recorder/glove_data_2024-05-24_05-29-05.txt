@@ -1,0 +1,14 @@
+MovementAxis;TestType;DesiredValue;HandPosition_X;HandPosition_Y;HandPosition_Z;Rotation_X;Rotation_Y;Rotation_Z;Time
+X;Position;-50;-0.08;0;-5;0;90;0;15.24
+X;Position;-30;-0.08;0;-5;0;90;0;15.47
+X;Position;-10;-0.08;0;-5;0;90;0;15.64
+X;Position;10;-0.08;0;-5;0;90;0;15.81
+X;Position;30;-0.08;0;-5;0;90;0;16.01
+X;Position;50;-0.08;0;-5;0;90;0;28.98
+Y;Position;-30;-0.08;0;-5;0;90;0;32.11
+Y;Position;-20;-0.08;0;-5;0;90;0;32.28
+Y;Position;-10;-0.08;0;-5;0;90;0;32.64
+Y;Position;10;-0.08;0;-5;0;90;0;32.86
+Y;Position;20;-0.08;0;-5;0;90;0;33.37
+Y;Position;30;-0.08;0;-5;0;90;0;50
+Z;Position;10;-0.08;0;-5;0;90;0;50.26

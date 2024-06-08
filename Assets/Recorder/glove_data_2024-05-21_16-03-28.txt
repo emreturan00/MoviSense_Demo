@@ -1,0 +1,1 @@
+MovementAxis;TestType;DesiredValue;HandPosition_X;HandPosition_Y;HandPosition_Z;Rotation_X;Rotation_Y;Rotation_Z;Time

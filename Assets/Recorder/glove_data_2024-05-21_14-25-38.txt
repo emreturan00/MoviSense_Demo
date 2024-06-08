@@ -1,0 +1,5 @@
+Timestamp;Axis;TestType;DesiredValue;ActualValue
+05/21/2024 14:25:42;X;Position;-50;-0.42
+05/21/2024 14:25:43;X;Position;-25;-0.42
+05/21/2024 14:25:44;X;Position;-10;-0.42
+05/21/2024 14:25:45;X;Position;-5;-0.42

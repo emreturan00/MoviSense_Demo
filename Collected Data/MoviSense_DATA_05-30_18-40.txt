@@ -1,0 +1,1 @@
+SceneName;GyroQuaternion_W;GyroQuaternion_X;GyroQuaternion_Y;GyroQuaternion_Z;Flex Thumb;Flex Index;Flex Middle;HandPoz_X;HandPoz_Y;HandPoz_Z;HandRot_X;HandRot_Y;HandRot_Z;ThumbRot_Z;IndexRot_X;MiddleRot_X;Hand Condition;Time;Timestamp
